@@ -1,0 +1,15 @@
+{
+  "name": "base-api",
+  "version": "1.0.0",
+  "description": "Fixação API Rest",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Bruno fontana <obrunofontana@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
